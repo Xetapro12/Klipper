@@ -1,0 +1,1 @@
+PRINT_START BED=[first_layer_bed_temperature] EXTRUDER=[first_layer_temperature]
